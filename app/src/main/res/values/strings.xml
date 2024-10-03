@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mobile</string>
+    <string name="select_payment_method">Select Payment Method</string>
+    <string-array name="payment_methods">
+        <item>Credit Card</item>
+        <item>PayPal</item>
+        <item>Bank Transfer</item>
+    </string-array>
+</resources>
